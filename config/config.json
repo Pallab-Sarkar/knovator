@@ -1,0 +1,10 @@
+
+
+{
+    "development": {
+        "config_id": "development",
+        "node_port": 8000,
+        "db_url": "mongodb://0.0.0.0:27017/knov",
+        "secret": "knov_secret"
+    }
+}
